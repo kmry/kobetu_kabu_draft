@@ -1,0 +1,2 @@
+https://www.smbc.co.jp/kojin/special/ideco/[SMBC Mirai]
+image::iDeCo_MIRAI.png[]
