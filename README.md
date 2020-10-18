@@ -1,1 +1,5 @@
-# kobetu_kabu_draft
+Cf . Setup of asciidoc on wsl 
+
+
+
+ C:\ProgramData\Anaconda3
