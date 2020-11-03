@@ -1,5 +1,1 @@
-Cf . Setup of asciidoc on wsl 
-
-
-
- C:\ProgramData\Anaconda3
+# asciidocで書いた、エンジニア私生活の文書置き場
